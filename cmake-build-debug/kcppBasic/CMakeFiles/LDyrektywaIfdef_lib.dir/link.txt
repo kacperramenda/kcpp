@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLDyrektywaIfdef_lib.so -o libLDyrektywaIfdef_lib.so CMakeFiles/LDyrektywaIfdef_lib.dir/src/LDyrektywaIfdef.cc.o

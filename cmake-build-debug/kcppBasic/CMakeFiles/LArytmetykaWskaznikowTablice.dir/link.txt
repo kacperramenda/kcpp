@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LArytmetykaWskaznikowTablice.dir/src/LArytmetykaWskaznikowTablice.cc.o -o LArytmetykaWskaznikowTablice  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLArytmetykaWskaznikowTablice_lib.so

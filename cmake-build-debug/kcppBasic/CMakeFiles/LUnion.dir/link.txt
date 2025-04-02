@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LUnion.dir/src/LUnion.cc.o -o LUnion  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLUnion_lib.so

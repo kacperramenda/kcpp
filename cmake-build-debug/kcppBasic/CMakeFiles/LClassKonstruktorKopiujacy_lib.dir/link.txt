@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLClassKonstruktorKopiujacy_lib.so -o libLClassKonstruktorKopiujacy_lib.so CMakeFiles/LClassKonstruktorKopiujacy_lib.dir/src/LClassKonstruktorKopiujacy.cc.o

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LInstrukcjaSwitch.dir/src/LInstrukcjaSwitch.cc.o -o LInstrukcjaSwitch  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLInstrukcjaSwitch_lib.so

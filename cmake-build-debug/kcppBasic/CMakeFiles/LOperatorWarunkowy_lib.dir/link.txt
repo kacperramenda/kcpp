@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLOperatorWarunkowy_lib.so -o libLOperatorWarunkowy_lib.so CMakeFiles/LOperatorWarunkowy_lib.dir/src/LOperatorWarunkowy.cc.o

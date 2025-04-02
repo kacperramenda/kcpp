@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLString_lib.so -o libLString_lib.so CMakeFiles/LString_lib.dir/src/LString.cc.o

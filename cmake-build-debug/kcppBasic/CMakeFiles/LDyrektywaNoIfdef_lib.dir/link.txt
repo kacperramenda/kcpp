@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLDyrektywaNoIfdef_lib.so -o libLDyrektywaNoIfdef_lib.so CMakeFiles/LDyrektywaNoIfdef_lib.dir/src/LDyrektywaNoIfdef.cc.o

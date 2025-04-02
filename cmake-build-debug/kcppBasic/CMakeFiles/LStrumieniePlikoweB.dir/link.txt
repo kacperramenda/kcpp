@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LStrumieniePlikoweB.dir/src/LStrumieniePlikoweB.cc.o -o LStrumieniePlikoweB  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLStrumieniePlikoweB_lib.so

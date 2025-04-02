@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLPrzekazywanieTablic_lib.so -o libLPrzekazywanieTablic_lib.so CMakeFiles/LPrzekazywanieTablic_lib.dir/src/LPrzekazywanieTablic.cc.o

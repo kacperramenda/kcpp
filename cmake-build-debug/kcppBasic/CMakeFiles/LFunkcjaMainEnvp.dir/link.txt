@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LFunkcjaMainEnvp.dir/src/LFunkcjaMainEnvp.cc.o -o LFunkcjaMainEnvp  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLFunkcjaMainEnvp_lib.so

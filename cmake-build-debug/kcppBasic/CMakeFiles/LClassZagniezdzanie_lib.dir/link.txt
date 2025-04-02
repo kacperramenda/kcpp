@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLClassZagniezdzanie_lib.so -o libLClassZagniezdzanie_lib.so CMakeFiles/LClassZagniezdzanie_lib.dir/src/LClassZagniezdzanie.cc.o

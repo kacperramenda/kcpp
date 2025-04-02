@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLStruct_lib.so -o libLStruct_lib.so CMakeFiles/LStruct_lib.dir/src/LStruct.cc.o

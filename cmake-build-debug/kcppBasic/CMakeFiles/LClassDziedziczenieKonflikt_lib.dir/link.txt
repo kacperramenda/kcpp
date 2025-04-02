@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLClassDziedziczenieKonflikt_lib.so -o libLClassDziedziczenieKonflikt_lib.so CMakeFiles/LClassDziedziczenieKonflikt_lib.dir/src/LClassDziedziczenieKonflikt.cc.o

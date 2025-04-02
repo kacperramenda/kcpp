@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LNawiasy.dir/src/LNawiasy.cc.o -o LNawiasy  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLNawiasy_lib.so

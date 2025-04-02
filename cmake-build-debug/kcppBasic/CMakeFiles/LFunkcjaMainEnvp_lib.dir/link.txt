@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLFunkcjaMainEnvp_lib.so -o libLFunkcjaMainEnvp_lib.so CMakeFiles/LFunkcjaMainEnvp_lib.dir/src/LFunkcjaMainEnvp.cc.o

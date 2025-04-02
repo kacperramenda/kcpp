@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLClassDziedziczenieRefWsk_lib.so -o libLClassDziedziczenieRefWsk_lib.so CMakeFiles/LClassDziedziczenieRefWsk_lib.dir/src/LClassDziedziczenieRefWsk.cc.o

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LArytmetykaWskaznikowZmienne.dir/src/LArytmetykaWskaznikowZmienne.cc.o -o LArytmetykaWskaznikowZmienne  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLArytmetykaWskaznikowZmienne_lib.so

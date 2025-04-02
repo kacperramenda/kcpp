@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/templateFunction.dir/src/templateFunction.cc.o -o templateFunction  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libtemplateFunction_lib.so

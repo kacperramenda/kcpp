@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LTypeAuto.dir/src/LTypeAuto.cc.o -o LTypeAuto  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLTypeAuto_lib.so

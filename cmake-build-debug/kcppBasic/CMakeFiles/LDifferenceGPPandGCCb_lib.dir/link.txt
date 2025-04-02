@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLDifferenceGPPandGCCb_lib.so -o libLDifferenceGPPandGCCb_lib.so CMakeFiles/LDifferenceGPPandGCCb_lib.dir/src/LDifferenceGPPandGCCb.cc.o

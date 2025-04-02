@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LPrzeliczanieDec2BinB.dir/src/LPrzeliczanieDec2BinB.cc.o -o LPrzeliczanieDec2BinB  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLPrzeliczanieDec2BinB_lib.so

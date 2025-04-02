@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LInstrukcjaSwitch_char_B.dir/src/LInstrukcjaSwitch_char_B.cc.o -o LInstrukcjaSwitch_char_B  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLInstrukcjaSwitch_char_B_lib.so

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLBitoweOperatoryLogiczneA1_lib.so -o libLBitoweOperatoryLogiczneA1_lib.so CMakeFiles/LBitoweOperatoryLogiczneA1_lib.dir/src/LBitoweOperatoryLogiczneA1.cc.o

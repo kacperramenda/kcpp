@@ -1,0 +1,1881 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"kcppBasic/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLArgumentyDomyslne_lib.so"
+			],
+			"targetId" : "LArgumentyDomyslne_lib::@17eab8d84481b329352a",
+			"targetIndex" : 1,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLArytmetykaWskaznikow_lib.so"
+			],
+			"targetId" : "LArytmetykaWskaznikow_lib::@17eab8d84481b329352a",
+			"targetIndex" : 7,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLArytmetykaWskaznikowTablice_lib.so"
+			],
+			"targetId" : "LArytmetykaWskaznikowTablice_lib::@17eab8d84481b329352a",
+			"targetIndex" : 4,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLArytmetykaWskaznikowZmienne_lib.so"
+			],
+			"targetId" : "LArytmetykaWskaznikowZmienne_lib::@17eab8d84481b329352a",
+			"targetIndex" : 6,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLBitoweOperatoryLogiczneA0_lib.so"
+			],
+			"targetId" : "LBitoweOperatoryLogiczneA0_lib::@17eab8d84481b329352a",
+			"targetIndex" : 9,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLBitoweOperatoryLogiczneA1_lib.so"
+			],
+			"targetId" : "LBitoweOperatoryLogiczneA1_lib::@17eab8d84481b329352a",
+			"targetIndex" : 11,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLBitoweOperatoryLogiczneB_lib.so"
+			],
+			"targetId" : "LBitoweOperatoryLogiczneB_lib::@17eab8d84481b329352a",
+			"targetIndex" : 13,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLBitoweOperatoryLogiczneDefine_lib.so"
+			],
+			"targetId" : "LBitoweOperatoryLogiczneDefine_lib::@17eab8d84481b329352a",
+			"targetIndex" : 15,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLBoolType_lib.so"
+			],
+			"targetId" : "LBoolType_lib::@17eab8d84481b329352a",
+			"targetIndex" : 17,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLChar_lib.so"
+			],
+			"targetId" : "LChar_lib::@17eab8d84481b329352a",
+			"targetIndex" : 19,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLCin_lib.so"
+			],
+			"targetId" : "LCin_lib::@17eab8d84481b329352a",
+			"targetIndex" : 21,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClass001_lib.so"
+			],
+			"targetId" : "LClass001_lib::@17eab8d84481b329352a",
+			"targetIndex" : 23,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassDefaultKonstruktor_lib.so"
+			],
+			"targetId" : "LClassDefaultKonstruktor_lib::@17eab8d84481b329352a",
+			"targetIndex" : 25,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassDestruktor_lib.so"
+			],
+			"targetId" : "LClassDestruktor_lib::@17eab8d84481b329352a",
+			"targetIndex" : 27,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassDziedziczenieA_lib.so"
+			],
+			"targetId" : "LClassDziedziczenieA_lib::@17eab8d84481b329352a",
+			"targetIndex" : 29,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassDziedziczenieKonflikt_lib.so"
+			],
+			"targetId" : "LClassDziedziczenieKonflikt_lib::@17eab8d84481b329352a",
+			"targetIndex" : 31,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassDziedziczenieRefWsk_lib.so"
+			],
+			"targetId" : "LClassDziedziczenieRefWsk_lib::@17eab8d84481b329352a",
+			"targetIndex" : 33,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassDziedziczenieWielokrotne_lib.so"
+			],
+			"targetId" : "LClassDziedziczenieWielokrotne_lib::@17eab8d84481b329352a",
+			"targetIndex" : 35,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassDziedziczenieWybiorcze_lib.so"
+			],
+			"targetId" : "LClassDziedziczenieWybiorcze_lib::@17eab8d84481b329352a",
+			"targetIndex" : 37,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassExample_lib.so"
+			],
+			"targetId" : "LClassExample_lib::@17eab8d84481b329352a",
+			"targetIndex" : 41,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassExampleInline_lib.so"
+			],
+			"targetId" : "LClassExampleInline_lib::@17eab8d84481b329352a",
+			"targetIndex" : 40,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassFunkcjeZaprzyjaznione_lib.so"
+			],
+			"targetId" : "LClassFunkcjeZaprzyjaznione_lib::@17eab8d84481b329352a",
+			"targetIndex" : 43,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassKlasyZaprzyjaznione_lib.so"
+			],
+			"targetId" : "LClassKlasyZaprzyjaznione_lib::@17eab8d84481b329352a",
+			"targetIndex" : 45,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 24,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassKonstruktor_lib.so"
+			],
+			"targetId" : "LClassKonstruktor_lib::@17eab8d84481b329352a",
+			"targetIndex" : 49,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 25,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassKonstruktorKopiujacy_lib.so"
+			],
+			"targetId" : "LClassKonstruktorKopiujacy_lib::@17eab8d84481b329352a",
+			"targetIndex" : 48,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 26,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassListaInicjalizacyjna_lib.so"
+			],
+			"targetId" : "LClassListaInicjalizacyjna_lib::@17eab8d84481b329352a",
+			"targetIndex" : 51,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassMetodyAbstrakcyjne_lib.so"
+			],
+			"targetId" : "LClassMetodyAbstrakcyjne_lib::@17eab8d84481b329352a",
+			"targetIndex" : 53,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 28,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassSkladoweKlasy_lib.so"
+			],
+			"targetId" : "LClassSkladoweKlasy_lib::@17eab8d84481b329352a",
+			"targetIndex" : 55,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 29,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassSkladoweStatyczne_lib.so"
+			],
+			"targetId" : "LClassSkladoweStatyczne_lib::@17eab8d84481b329352a",
+			"targetIndex" : 57,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 30,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassThis001_lib.so"
+			],
+			"targetId" : "LClassThis001_lib::@17eab8d84481b329352a",
+			"targetIndex" : 59,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 31,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassThis002_lib.so"
+			],
+			"targetId" : "LClassThis002_lib::@17eab8d84481b329352a",
+			"targetIndex" : 61,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 32,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassVirtualA_lib.so"
+			],
+			"targetId" : "LClassVirtualA_lib::@17eab8d84481b329352a",
+			"targetIndex" : 63,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 33,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassVirtualB_lib.so"
+			],
+			"targetId" : "LClassVirtualB_lib::@17eab8d84481b329352a",
+			"targetIndex" : 65,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 34,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassVirtualDestructor_lib.so"
+			],
+			"targetId" : "LClassVirtualDestructor_lib::@17eab8d84481b329352a",
+			"targetIndex" : 67,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 35,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLClassZagniezdzanie_lib.so"
+			],
+			"targetId" : "LClassZagniezdzanie_lib::@17eab8d84481b329352a",
+			"targetIndex" : 69,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 36,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLConversion_lib.so"
+			],
+			"targetId" : "LConversion_lib::@17eab8d84481b329352a",
+			"targetIndex" : 71,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 37,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLCoutArray_lib.so"
+			],
+			"targetId" : "LCoutArray_lib::@17eab8d84481b329352a",
+			"targetIndex" : 73,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 38,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLDataTypes_lib.so"
+			],
+			"targetId" : "LDataTypes_lib::@17eab8d84481b329352a",
+			"targetIndex" : 75,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 39,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLDifferenceGPPandGCC_lib.so"
+			],
+			"targetId" : "LDifferenceGPPandGCC_lib::@17eab8d84481b329352a",
+			"targetIndex" : 77,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 40,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLDifferenceGPPandGCCb_lib.so"
+			],
+			"targetId" : "LDifferenceGPPandGCCb_lib::@17eab8d84481b329352a",
+			"targetIndex" : 79,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 41,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLDynamicCastNew_lib.so"
+			],
+			"targetId" : "LDynamicCastNew_lib::@17eab8d84481b329352a",
+			"targetIndex" : 81,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 42,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLDynamicCastOld_lib.so"
+			],
+			"targetId" : "LDynamicCastOld_lib::@17eab8d84481b329352a",
+			"targetIndex" : 83,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 43,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLDyrektywaIfdef_lib.so"
+			],
+			"targetId" : "LDyrektywaIfdef_lib::@17eab8d84481b329352a",
+			"targetIndex" : 85,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 44,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLDyrektywaInclude_lib.so"
+			],
+			"targetId" : "LDyrektywaInclude_lib::@17eab8d84481b329352a",
+			"targetIndex" : 87,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 45,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLDyrektywaNoIfdef_lib.so"
+			],
+			"targetId" : "LDyrektywaNoIfdef_lib::@17eab8d84481b329352a",
+			"targetIndex" : 89,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 46,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLDyrektywaPredefined_lib.so"
+			],
+			"targetId" : "LDyrektywaPredefined_lib::@17eab8d84481b329352a",
+			"targetIndex" : 91,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 47,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLDyrektywaPreprocesoraHash2_lib.so"
+			],
+			"targetId" : "LDyrektywaPreprocesoraHash2_lib::@17eab8d84481b329352a",
+			"targetIndex" : 93,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 48,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLExtern_lib.so"
+			],
+			"targetId" : "LExtern_lib::@17eab8d84481b329352a",
+			"targetIndex" : 95,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 49,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLFun_lib.so"
+			],
+			"targetId" : "LFun_lib::@17eab8d84481b329352a",
+			"targetIndex" : 97,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 50,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLFunctionOverloading1_lib.so"
+			],
+			"targetId" : "LFunctionOverloading1_lib::@17eab8d84481b329352a",
+			"targetIndex" : 99,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 51,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLFunctionOverloading2_lib.so"
+			],
+			"targetId" : "LFunctionOverloading2_lib::@17eab8d84481b329352a",
+			"targetIndex" : 101,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 52,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLFunkcjaMain_lib.so"
+			],
+			"targetId" : "LFunkcjaMain_lib::@17eab8d84481b329352a",
+			"targetIndex" : 105,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 53,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLFunkcjaMainEnvp_lib.so"
+			],
+			"targetId" : "LFunkcjaMainEnvp_lib::@17eab8d84481b329352a",
+			"targetIndex" : 104,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 54,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLFunkcjaVoid_lib.so"
+			],
+			"targetId" : "LFunkcjaVoid_lib::@17eab8d84481b329352a",
+			"targetIndex" : 107,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 55,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLInstrukcjaDoWhile_lib.so"
+			],
+			"targetId" : "LInstrukcjaDoWhile_lib::@17eab8d84481b329352a",
+			"targetIndex" : 109,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 56,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLInstrukcjaGoto_lib.so"
+			],
+			"targetId" : "LInstrukcjaGoto_lib::@17eab8d84481b329352a",
+			"targetIndex" : 113,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 57,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLInstrukcjaGotoZastepstwo_lib.so"
+			],
+			"targetId" : "LInstrukcjaGotoZastepstwo_lib::@17eab8d84481b329352a",
+			"targetIndex" : 112,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 58,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLInstrukcjaIf_lib.so"
+			],
+			"targetId" : "LInstrukcjaIf_lib::@17eab8d84481b329352a",
+			"targetIndex" : 115,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 59,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLInstrukcjaSwitch_lib.so"
+			],
+			"targetId" : "LInstrukcjaSwitch_lib::@17eab8d84481b329352a",
+			"targetIndex" : 121,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 60,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLInstrukcjaSwitch_char_A_lib.so"
+			],
+			"targetId" : "LInstrukcjaSwitch_char_A_lib::@17eab8d84481b329352a",
+			"targetIndex" : 118,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 61,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLInstrukcjaSwitch_char_B_lib.so"
+			],
+			"targetId" : "LInstrukcjaSwitch_char_B_lib::@17eab8d84481b329352a",
+			"targetIndex" : 120,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLInstrukcjaWhile_lib.so"
+			],
+			"targetId" : "LInstrukcjaWhile_lib::@17eab8d84481b329352a",
+			"targetIndex" : 123,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 63,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLManipulatory_lib.so"
+			],
+			"targetId" : "LManipulatory_lib::@17eab8d84481b329352a",
+			"targetIndex" : 125,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 64,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLNamespace_lib.so"
+			],
+			"targetId" : "LNamespace_lib::@17eab8d84481b329352a",
+			"targetIndex" : 127,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 65,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLNawiasy_lib.so"
+			],
+			"targetId" : "LNawiasy_lib::@17eab8d84481b329352a",
+			"targetIndex" : 129,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 66,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLOperatorInkrementacji_lib.so"
+			],
+			"targetId" : "LOperatorInkrementacji_lib::@17eab8d84481b329352a",
+			"targetIndex" : 131,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 67,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLOperatorPriorytet_lib.so"
+			],
+			"targetId" : "LOperatorPriorytet_lib::@17eab8d84481b329352a",
+			"targetIndex" : 133,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 68,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLOperatorPrzypisania_lib.so"
+			],
+			"targetId" : "LOperatorPrzypisania_lib::@17eab8d84481b329352a",
+			"targetIndex" : 135,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 69,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLOperatorWarunkowy_lib.so"
+			],
+			"targetId" : "LOperatorWarunkowy_lib::@17eab8d84481b329352a",
+			"targetIndex" : 137,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 70,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLPODInitalize_lib.so"
+			],
+			"targetId" : "LPODInitalize_lib::@17eab8d84481b329352a",
+			"targetIndex" : 139,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 71,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLPrzekazywaniePrzezWartoscReferencjeWskaznik_lib.so"
+			],
+			"targetId" : "LPrzekazywaniePrzezWartoscReferencjeWskaznik_lib::@17eab8d84481b329352a",
+			"targetIndex" : 141,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 72,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLPrzekazywanieTablic_lib.so"
+			],
+			"targetId" : "LPrzekazywanieTablic_lib::@17eab8d84481b329352a",
+			"targetIndex" : 145,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 73,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLPrzekazywanieTablicShort_lib.so"
+			],
+			"targetId" : "LPrzekazywanieTablicShort_lib::@17eab8d84481b329352a",
+			"targetIndex" : 144,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 74,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLPrzeliczanieDec2BinA_lib.so"
+			],
+			"targetId" : "LPrzeliczanieDec2BinA_lib::@17eab8d84481b329352a",
+			"targetIndex" : 147,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 75,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLPrzeliczanieDec2BinB_lib.so"
+			],
+			"targetId" : "LPrzeliczanieDec2BinB_lib::@17eab8d84481b329352a",
+			"targetIndex" : 149,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 76,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLSetFill_lib.so"
+			],
+			"targetId" : "LSetFill_lib::@17eab8d84481b329352a",
+			"targetIndex" : 151,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 77,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLSetPrecision_lib.so"
+			],
+			"targetId" : "LSetPrecision_lib::@17eab8d84481b329352a",
+			"targetIndex" : 153,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 78,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLSizeof_lib.so"
+			],
+			"targetId" : "LSizeof_lib::@17eab8d84481b329352a",
+			"targetIndex" : 155,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 79,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLStaticCast_lib.so"
+			],
+			"targetId" : "LStaticCast_lib::@17eab8d84481b329352a",
+			"targetIndex" : 157,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 80,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLStaticKeyword_lib.so"
+			],
+			"targetId" : "LStaticKeyword_lib::@17eab8d84481b329352a",
+			"targetIndex" : 163,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 81,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLStaticKeywordFunctionMember_lib.so"
+			],
+			"targetId" : "LStaticKeywordFunctionMember_lib::@17eab8d84481b329352a",
+			"targetIndex" : 160,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 82,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLStaticKeywordMember_lib.so"
+			],
+			"targetId" : "LStaticKeywordMember_lib::@17eab8d84481b329352a",
+			"targetIndex" : 162,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 83,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLString_lib.so"
+			],
+			"targetId" : "LString_lib::@17eab8d84481b329352a",
+			"targetIndex" : 165,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 84,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLStruct_lib.so"
+			],
+			"targetId" : "LStruct_lib::@17eab8d84481b329352a",
+			"targetIndex" : 169,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 85,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLStructListaInicjalizacyjna_lib.so"
+			],
+			"targetId" : "LStructListaInicjalizacyjna_lib::@17eab8d84481b329352a",
+			"targetIndex" : 168,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 86,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLStrumienie_lib.so"
+			],
+			"targetId" : "LStrumienie_lib::@17eab8d84481b329352a",
+			"targetIndex" : 179,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 87,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLStrumienieNapisow_lib.so"
+			],
+			"targetId" : "LStrumienieNapisow_lib::@17eab8d84481b329352a",
+			"targetIndex" : 172,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 88,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLStrumieniePlikoweA_lib.so"
+			],
+			"targetId" : "LStrumieniePlikoweA_lib::@17eab8d84481b329352a",
+			"targetIndex" : 174,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 89,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLStrumieniePlikoweB_lib.so"
+			],
+			"targetId" : "LStrumieniePlikoweB_lib::@17eab8d84481b329352a",
+			"targetIndex" : 176,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 90,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLStrumienieTail_lib.so"
+			],
+			"targetId" : "LStrumienieTail_lib::@17eab8d84481b329352a",
+			"targetIndex" : 178,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 91,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLTabliceAutomatyczne_lib.so"
+			],
+			"targetId" : "LTabliceAutomatyczne_lib::@17eab8d84481b329352a",
+			"targetIndex" : 181,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 92,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLTabliceDynamiczne_lib.so"
+			],
+			"targetId" : "LTabliceDynamiczne_lib::@17eab8d84481b329352a",
+			"targetIndex" : 183,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 93,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLThis_lib.so"
+			],
+			"targetId" : "LThis_lib::@17eab8d84481b329352a",
+			"targetIndex" : 185,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 94,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLTimeMeasure_lib.so"
+			],
+			"targetId" : "LTimeMeasure_lib::@17eab8d84481b329352a",
+			"targetIndex" : 187,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 95,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLTypeAuto_lib.so"
+			],
+			"targetId" : "LTypeAuto_lib::@17eab8d84481b329352a",
+			"targetIndex" : 189,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 96,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLTypeConstKeyword_lib.so"
+			],
+			"targetId" : "LTypeConstKeyword_lib::@17eab8d84481b329352a",
+			"targetIndex" : 191,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 97,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLTypeEnumerated_lib.so"
+			],
+			"targetId" : "LTypeEnumerated_lib::@17eab8d84481b329352a",
+			"targetIndex" : 193,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 98,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLTypedefAlias_lib.so"
+			],
+			"targetId" : "LTypedefAlias_lib::@17eab8d84481b329352a",
+			"targetIndex" : 195,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 99,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLUnion_lib.so"
+			],
+			"targetId" : "LUnion_lib::@17eab8d84481b329352a",
+			"targetIndex" : 199,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 100,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libLUnionDouble_lib.so"
+			],
+			"targetId" : "LUnionDouble_lib::@17eab8d84481b329352a",
+			"targetIndex" : 198,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 101,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libnoTemplateFunction_lib.so"
+			],
+			"targetId" : "noTemplateFunction_lib::@17eab8d84481b329352a",
+			"targetIndex" : 201,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 102,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libtemplateClass_lib.so"
+			],
+			"targetId" : "templateClass_lib::@17eab8d84481b329352a",
+			"targetIndex" : 203,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 103,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"kcppBasic/libtemplateFunction_lib.so"
+			],
+			"targetId" : "templateFunction_lib::@17eab8d84481b329352a",
+			"targetIndex" : 205,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "kcppBasic",
+		"source" : "kcppBasic"
+	}
+}

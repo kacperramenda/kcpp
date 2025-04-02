@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLOperatorPrzypisania_lib.so -o libLOperatorPrzypisania_lib.so CMakeFiles/LOperatorPrzypisania_lib.dir/src/LOperatorPrzypisania.cc.o

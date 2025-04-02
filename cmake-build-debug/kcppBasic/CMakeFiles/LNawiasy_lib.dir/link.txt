@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLNawiasy_lib.so -o libLNawiasy_lib.so CMakeFiles/LNawiasy_lib.dir/src/LNawiasy.cc.o

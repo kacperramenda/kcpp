@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLClassDziedziczenieWybiorcze_lib.so -o libLClassDziedziczenieWybiorcze_lib.so CMakeFiles/LClassDziedziczenieWybiorcze_lib.dir/src/LClassDziedziczenieWybiorcze.cc.o

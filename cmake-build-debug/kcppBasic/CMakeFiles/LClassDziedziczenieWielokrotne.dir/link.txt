@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LClassDziedziczenieWielokrotne.dir/src/LClassDziedziczenieWielokrotne.cc.o -o LClassDziedziczenieWielokrotne  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLClassDziedziczenieWielokrotne_lib.so

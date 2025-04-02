@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLStrumienie_lib.so -o libLStrumienie_lib.so CMakeFiles/LStrumienie_lib.dir/src/LStrumienie.cc.o

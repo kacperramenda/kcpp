@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LClassSkladoweKlasy.dir/src/LClassSkladoweKlasy.cc.o -o LClassSkladoweKlasy  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLClassSkladoweKlasy_lib.so

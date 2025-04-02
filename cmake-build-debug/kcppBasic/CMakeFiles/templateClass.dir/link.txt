@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/templateClass.dir/src/templateClass.cc.o -o templateClass  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libtemplateClass_lib.so

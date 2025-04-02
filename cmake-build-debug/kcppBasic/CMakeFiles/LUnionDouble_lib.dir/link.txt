@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLUnionDouble_lib.so -o libLUnionDouble_lib.so CMakeFiles/LUnionDouble_lib.dir/src/LUnionDouble.cc.o

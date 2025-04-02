@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LInstrukcjaIf.dir/src/LInstrukcjaIf.cc.o -o LInstrukcjaIf  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLInstrukcjaIf_lib.so

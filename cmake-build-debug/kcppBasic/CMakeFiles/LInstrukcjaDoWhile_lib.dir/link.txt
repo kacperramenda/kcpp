@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLInstrukcjaDoWhile_lib.so -o libLInstrukcjaDoWhile_lib.so CMakeFiles/LInstrukcjaDoWhile_lib.dir/src/LInstrukcjaDoWhile.cc.o

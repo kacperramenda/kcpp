@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLCin_lib.so -o libLCin_lib.so CMakeFiles/LCin_lib.dir/src/LCin.cc.o

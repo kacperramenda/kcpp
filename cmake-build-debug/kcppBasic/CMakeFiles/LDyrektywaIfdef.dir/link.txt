@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LDyrektywaIfdef.dir/src/LDyrektywaIfdef.cc.o -o LDyrektywaIfdef  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLDyrektywaIfdef_lib.so

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLSetPrecision_lib.so -o libLSetPrecision_lib.so CMakeFiles/LSetPrecision_lib.dir/src/LSetPrecision.cc.o

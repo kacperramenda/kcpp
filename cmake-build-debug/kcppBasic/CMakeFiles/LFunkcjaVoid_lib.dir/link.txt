@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLFunkcjaVoid_lib.so -o libLFunkcjaVoid_lib.so CMakeFiles/LFunkcjaVoid_lib.dir/src/LFunkcjaVoid.cc.o

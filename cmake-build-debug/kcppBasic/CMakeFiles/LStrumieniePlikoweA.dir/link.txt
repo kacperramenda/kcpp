@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LStrumieniePlikoweA.dir/src/LStrumieniePlikoweA.cc.o -o LStrumieniePlikoweA  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLStrumieniePlikoweA_lib.so

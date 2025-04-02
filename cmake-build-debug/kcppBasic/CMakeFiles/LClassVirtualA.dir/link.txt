@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LClassVirtualA.dir/src/LClassVirtualA.cc.o -o LClassVirtualA  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLClassVirtualA_lib.so

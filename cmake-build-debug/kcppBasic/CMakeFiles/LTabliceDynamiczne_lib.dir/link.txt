@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLTabliceDynamiczne_lib.so -o libLTabliceDynamiczne_lib.so CMakeFiles/LTabliceDynamiczne_lib.dir/src/LTabliceDynamiczne.cc.o

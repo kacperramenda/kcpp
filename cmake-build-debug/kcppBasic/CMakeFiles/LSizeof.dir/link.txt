@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LSizeof.dir/src/LSizeof.cc.o -o LSizeof  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLSizeof_lib.so

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LInstrukcjaDoWhile.dir/src/LInstrukcjaDoWhile.cc.o -o LInstrukcjaDoWhile  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLInstrukcjaDoWhile_lib.so

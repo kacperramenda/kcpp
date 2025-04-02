@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LClassDziedziczenieRefWsk.dir/src/LClassDziedziczenieRefWsk.cc.o -o LClassDziedziczenieRefWsk  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLClassDziedziczenieRefWsk_lib.so

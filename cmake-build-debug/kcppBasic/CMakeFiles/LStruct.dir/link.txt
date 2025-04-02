@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LStruct.dir/src/LStruct.cc.o -o LStruct  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLStruct_lib.so

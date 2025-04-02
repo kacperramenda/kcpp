@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLClassListaInicjalizacyjna_lib.so -o libLClassListaInicjalizacyjna_lib.so CMakeFiles/LClassListaInicjalizacyjna_lib.dir/src/LClassListaInicjalizacyjna.cc.o

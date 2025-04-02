@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLPODInitalize_lib.so -o libLPODInitalize_lib.so CMakeFiles/LPODInitalize_lib.dir/src/LPODInitalize.cc.o

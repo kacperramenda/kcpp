@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libtemplateFunction_lib.so -o libtemplateFunction_lib.so CMakeFiles/templateFunction_lib.dir/src/templateFunction.cc.o

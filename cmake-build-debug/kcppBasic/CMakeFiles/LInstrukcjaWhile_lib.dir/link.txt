@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLInstrukcjaWhile_lib.so -o libLInstrukcjaWhile_lib.so CMakeFiles/LInstrukcjaWhile_lib.dir/src/LInstrukcjaWhile.cc.o

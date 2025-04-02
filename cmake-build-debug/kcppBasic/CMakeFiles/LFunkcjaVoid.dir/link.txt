@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LFunkcjaVoid.dir/src/LFunkcjaVoid.cc.o -o LFunkcjaVoid  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLFunkcjaVoid_lib.so

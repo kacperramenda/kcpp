@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLStrumieniePlikoweA_lib.so -o libLStrumieniePlikoweA_lib.so CMakeFiles/LStrumieniePlikoweA_lib.dir/src/LStrumieniePlikoweA.cc.o

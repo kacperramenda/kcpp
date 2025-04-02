@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LInstrukcjaGoto.dir/src/LInstrukcjaGoto.cc.o -o LInstrukcjaGoto  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLInstrukcjaGoto_lib.so

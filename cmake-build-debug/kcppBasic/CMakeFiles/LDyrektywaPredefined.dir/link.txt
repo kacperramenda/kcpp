@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LDyrektywaPredefined.dir/src/LDyrektywaPredefined.cc.o -o LDyrektywaPredefined  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLDyrektywaPredefined_lib.so

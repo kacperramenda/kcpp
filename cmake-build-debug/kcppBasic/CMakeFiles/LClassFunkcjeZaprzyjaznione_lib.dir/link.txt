@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLClassFunkcjeZaprzyjaznione_lib.so -o libLClassFunkcjeZaprzyjaznione_lib.so CMakeFiles/LClassFunkcjeZaprzyjaznione_lib.dir/src/LClassFunkcjeZaprzyjaznione.cc.o

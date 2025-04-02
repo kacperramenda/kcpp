@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LThis.dir/src/LThis.cc.o -o LThis  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLThis_lib.so

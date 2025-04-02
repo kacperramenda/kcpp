@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLTypeAuto_lib.so -o libLTypeAuto_lib.so CMakeFiles/LTypeAuto_lib.dir/src/LTypeAuto.cc.o

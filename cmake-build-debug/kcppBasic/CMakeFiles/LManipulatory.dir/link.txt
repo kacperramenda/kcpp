@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LManipulatory.dir/src/LManipulatory.cc.o -o LManipulatory  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLManipulatory_lib.so

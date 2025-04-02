@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLStructListaInicjalizacyjna_lib.so -o libLStructListaInicjalizacyjna_lib.so CMakeFiles/LStructListaInicjalizacyjna_lib.dir/src/LStructListaInicjalizacyjna.cc.o

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLInstrukcjaGoto_lib.so -o libLInstrukcjaGoto_lib.so CMakeFiles/LInstrukcjaGoto_lib.dir/src/LInstrukcjaGoto.cc.o

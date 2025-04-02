@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLTabliceAutomatyczne_lib.so -o libLTabliceAutomatyczne_lib.so CMakeFiles/LTabliceAutomatyczne_lib.dir/src/LTabliceAutomatyczne.cc.o

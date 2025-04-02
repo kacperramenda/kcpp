@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LFun.dir/src/LFun.cc.o -o LFun  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLFun_lib.so

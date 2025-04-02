@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LStrumienieNapisow.dir/src/LStrumienieNapisow.cc.o -o LStrumienieNapisow  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLStrumienieNapisow_lib.so

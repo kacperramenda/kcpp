@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LDataTypes.dir/src/LDataTypes.cc.o -o LDataTypes  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLDataTypes_lib.so

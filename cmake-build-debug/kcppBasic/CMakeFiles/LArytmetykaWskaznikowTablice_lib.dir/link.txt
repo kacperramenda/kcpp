@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLArytmetykaWskaznikowTablice_lib.so -o libLArytmetykaWskaznikowTablice_lib.so CMakeFiles/LArytmetykaWskaznikowTablice_lib.dir/src/LArytmetykaWskaznikowTablice.cc.o

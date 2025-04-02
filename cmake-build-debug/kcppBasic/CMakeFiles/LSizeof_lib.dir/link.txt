@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLSizeof_lib.so -o libLSizeof_lib.so CMakeFiles/LSizeof_lib.dir/src/LSizeof.cc.o

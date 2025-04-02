@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LBitoweOperatoryLogiczneDefine.dir/src/LBitoweOperatoryLogiczneDefine.cc.o -o LBitoweOperatoryLogiczneDefine  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLBitoweOperatoryLogiczneDefine_lib.so

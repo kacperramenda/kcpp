@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLOperatorPriorytet_lib.so -o libLOperatorPriorytet_lib.so CMakeFiles/LOperatorPriorytet_lib.dir/src/LOperatorPriorytet.cc.o

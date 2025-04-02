@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LOperatorPrzypisania.dir/src/LOperatorPrzypisania.cc.o -o LOperatorPrzypisania  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLOperatorPrzypisania_lib.so

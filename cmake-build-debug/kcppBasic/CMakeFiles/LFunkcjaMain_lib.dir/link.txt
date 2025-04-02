@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLFunkcjaMain_lib.so -o libLFunkcjaMain_lib.so CMakeFiles/LFunkcjaMain_lib.dir/src/LFunkcjaMain.cc.o

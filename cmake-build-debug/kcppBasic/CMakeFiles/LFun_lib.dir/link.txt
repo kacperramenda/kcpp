@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLFun_lib.so -o libLFun_lib.so CMakeFiles/LFun_lib.dir/src/LFun.cc.o

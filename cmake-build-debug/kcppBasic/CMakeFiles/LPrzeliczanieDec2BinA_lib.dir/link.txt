@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLPrzeliczanieDec2BinA_lib.so -o libLPrzeliczanieDec2BinA_lib.so CMakeFiles/LPrzeliczanieDec2BinA_lib.dir/src/LPrzeliczanieDec2BinA.cc.o

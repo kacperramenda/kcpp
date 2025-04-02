@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLClassDziedziczenieWielokrotne_lib.so -o libLClassDziedziczenieWielokrotne_lib.so CMakeFiles/LClassDziedziczenieWielokrotne_lib.dir/src/LClassDziedziczenieWielokrotne.cc.o

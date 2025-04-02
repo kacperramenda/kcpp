@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LStructListaInicjalizacyjna.dir/src/LStructListaInicjalizacyjna.cc.o -o LStructListaInicjalizacyjna  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLStructListaInicjalizacyjna_lib.so

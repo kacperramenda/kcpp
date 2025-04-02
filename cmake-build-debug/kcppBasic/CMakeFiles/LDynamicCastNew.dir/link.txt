@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LDynamicCastNew.dir/src/LDynamicCastNew.cc.o -o LDynamicCastNew  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLDynamicCastNew_lib.so

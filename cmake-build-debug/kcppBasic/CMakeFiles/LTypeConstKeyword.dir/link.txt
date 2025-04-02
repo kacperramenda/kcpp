@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LTypeConstKeyword.dir/src/LTypeConstKeyword.cc.o -o LTypeConstKeyword  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLTypeConstKeyword_lib.so

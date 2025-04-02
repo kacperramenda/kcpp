@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LStrumienie.dir/src/LStrumienie.cc.o -o LStrumienie  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLStrumienie_lib.so

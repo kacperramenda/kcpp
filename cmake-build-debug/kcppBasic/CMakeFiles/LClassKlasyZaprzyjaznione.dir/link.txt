@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LClassKlasyZaprzyjaznione.dir/src/LClassKlasyZaprzyjaznione.cc.o -o LClassKlasyZaprzyjaznione  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLClassKlasyZaprzyjaznione_lib.so

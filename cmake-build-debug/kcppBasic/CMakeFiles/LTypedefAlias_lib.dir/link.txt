@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLTypedefAlias_lib.so -o libLTypedefAlias_lib.so CMakeFiles/LTypedefAlias_lib.dir/src/LTypedefAlias.cc.o

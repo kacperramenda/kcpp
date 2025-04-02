@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.o -o LClassMetodyAbstrakcyjne  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLClassMetodyAbstrakcyjne_lib.so

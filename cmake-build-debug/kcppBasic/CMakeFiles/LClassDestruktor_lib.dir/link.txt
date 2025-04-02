@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLClassDestruktor_lib.so -o libLClassDestruktor_lib.so CMakeFiles/LClassDestruktor_lib.dir/src/LClassDestruktor.cc.o

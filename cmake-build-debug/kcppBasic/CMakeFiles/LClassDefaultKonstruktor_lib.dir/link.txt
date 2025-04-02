@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLClassDefaultKonstruktor_lib.so -o libLClassDefaultKonstruktor_lib.so CMakeFiles/LClassDefaultKonstruktor_lib.dir/src/LClassDefaultKonstruktor.cc.o

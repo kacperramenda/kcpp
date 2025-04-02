@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LTypedefAlias.dir/src/LTypedefAlias.cc.o -o LTypedefAlias  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLTypedefAlias_lib.so

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LFunkcjaMain.dir/src/LFunkcjaMain.cc.o -o LFunkcjaMain  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLFunkcjaMain_lib.so

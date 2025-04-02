@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LDifferenceGPPandGCC.dir/src/LDifferenceGPPandGCC.cc.o -o LDifferenceGPPandGCC  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLDifferenceGPPandGCC_lib.so

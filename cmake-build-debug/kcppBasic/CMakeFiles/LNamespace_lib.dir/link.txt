@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLNamespace_lib.so -o libLNamespace_lib.so CMakeFiles/LNamespace_lib.dir/src/LNamespace.cc.o

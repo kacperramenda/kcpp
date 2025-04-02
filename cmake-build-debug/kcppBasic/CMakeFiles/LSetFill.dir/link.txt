@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LSetFill.dir/src/LSetFill.cc.o -o LSetFill  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLSetFill_lib.so

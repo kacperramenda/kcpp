@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LStaticKeyword.dir/src/LStaticKeyword.cc.o -o LStaticKeyword  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLStaticKeyword_lib.so

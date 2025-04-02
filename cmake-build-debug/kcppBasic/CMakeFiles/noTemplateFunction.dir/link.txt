@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/noTemplateFunction.dir/src/noTemplateFunction.cc.o -o noTemplateFunction  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libnoTemplateFunction_lib.so

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LClassDziedziczenieWybiorcze.dir/src/LClassDziedziczenieWybiorcze.cc.o -o LClassDziedziczenieWybiorcze  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLClassDziedziczenieWybiorcze_lib.so

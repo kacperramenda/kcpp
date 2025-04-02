@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LStaticKeywordFunctionMember.dir/src/LStaticKeywordFunctionMember.cc.o -o LStaticKeywordFunctionMember  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLStaticKeywordFunctionMember_lib.so

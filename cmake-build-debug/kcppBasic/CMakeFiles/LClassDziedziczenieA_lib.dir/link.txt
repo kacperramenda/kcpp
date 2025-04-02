@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLClassDziedziczenieA_lib.so -o libLClassDziedziczenieA_lib.so CMakeFiles/LClassDziedziczenieA_lib.dir/src/LClassDziedziczenieA.cc.o

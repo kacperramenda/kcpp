@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLOperatorInkrementacji_lib.so -o libLOperatorInkrementacji_lib.so CMakeFiles/LOperatorInkrementacji_lib.dir/src/LOperatorInkrementacji.cc.o

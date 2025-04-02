@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LPrzekazywanieTablic.dir/src/LPrzekazywanieTablic.cc.o -o LPrzekazywanieTablic  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLPrzekazywanieTablic_lib.so

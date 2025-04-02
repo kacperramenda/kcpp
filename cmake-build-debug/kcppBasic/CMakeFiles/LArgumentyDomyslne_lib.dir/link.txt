@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLArgumentyDomyslne_lib.so -o libLArgumentyDomyslne_lib.so CMakeFiles/LArgumentyDomyslne_lib.dir/src/LArgumentyDomyslne.cc.o

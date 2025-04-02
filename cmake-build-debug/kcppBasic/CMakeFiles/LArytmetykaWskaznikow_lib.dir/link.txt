@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLArytmetykaWskaznikow_lib.so -o libLArytmetykaWskaznikow_lib.so CMakeFiles/LArytmetykaWskaznikow_lib.dir/src/LArytmetykaWskaznikow.cc.o

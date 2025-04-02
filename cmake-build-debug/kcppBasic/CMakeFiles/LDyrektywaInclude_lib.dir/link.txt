@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLDyrektywaInclude_lib.so -o libLDyrektywaInclude_lib.so CMakeFiles/LDyrektywaInclude_lib.dir/src/LDyrektywaInclude.cc.o

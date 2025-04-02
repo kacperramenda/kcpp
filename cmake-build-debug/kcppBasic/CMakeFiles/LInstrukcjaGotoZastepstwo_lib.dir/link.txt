@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLInstrukcjaGotoZastepstwo_lib.so -o libLInstrukcjaGotoZastepstwo_lib.so CMakeFiles/LInstrukcjaGotoZastepstwo_lib.dir/src/LInstrukcjaGotoZastepstwo.cc.o

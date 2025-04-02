@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLClassSkladoweStatyczne_lib.so -o libLClassSkladoweStatyczne_lib.so CMakeFiles/LClassSkladoweStatyczne_lib.dir/src/LClassSkladoweStatyczne.cc.o

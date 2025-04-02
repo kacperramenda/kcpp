@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLClassMetodyAbstrakcyjne_lib.so -o libLClassMetodyAbstrakcyjne_lib.so CMakeFiles/LClassMetodyAbstrakcyjne_lib.dir/src/LClassMetodyAbstrakcyjne.cc.o

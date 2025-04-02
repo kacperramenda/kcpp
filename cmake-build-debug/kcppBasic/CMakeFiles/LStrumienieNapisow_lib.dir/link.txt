@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLStrumienieNapisow_lib.so -o libLStrumienieNapisow_lib.so CMakeFiles/LStrumienieNapisow_lib.dir/src/LStrumienieNapisow.cc.o

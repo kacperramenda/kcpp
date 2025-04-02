@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LArgumentyDomyslne.dir/src/LArgumentyDomyslne.cc.o -o LArgumentyDomyslne  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLArgumentyDomyslne_lib.so

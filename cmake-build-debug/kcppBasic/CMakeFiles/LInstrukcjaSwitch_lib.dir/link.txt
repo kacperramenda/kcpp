@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLInstrukcjaSwitch_lib.so -o libLInstrukcjaSwitch_lib.so CMakeFiles/LInstrukcjaSwitch_lib.dir/src/LInstrukcjaSwitch.cc.o

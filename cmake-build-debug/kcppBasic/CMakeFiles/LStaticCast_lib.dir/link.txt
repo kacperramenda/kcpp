@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLStaticCast_lib.so -o libLStaticCast_lib.so CMakeFiles/LStaticCast_lib.dir/src/LStaticCast.cc.o

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLClassVirtualB_lib.so -o libLClassVirtualB_lib.so CMakeFiles/LClassVirtualB_lib.dir/src/LClassVirtualB.cc.o

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LClassZagniezdzanie.dir/src/LClassZagniezdzanie.cc.o -o LClassZagniezdzanie  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLClassZagniezdzanie_lib.so

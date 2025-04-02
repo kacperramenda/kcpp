@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LClassThis001.dir/src/LClassThis001.cc.o -o LClassThis001  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLClassThis001_lib.so

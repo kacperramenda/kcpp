@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LConversion.dir/src/LConversion.cc.o -o LConversion  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLConversion_lib.so

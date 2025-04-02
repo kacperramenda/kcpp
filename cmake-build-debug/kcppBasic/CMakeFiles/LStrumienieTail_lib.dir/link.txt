@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLStrumienieTail_lib.so -o libLStrumienieTail_lib.so CMakeFiles/LStrumienieTail_lib.dir/src/LStrumienieTail.cc.o

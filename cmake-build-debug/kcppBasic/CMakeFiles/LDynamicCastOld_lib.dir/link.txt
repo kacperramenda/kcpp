@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLDynamicCastOld_lib.so -o libLDynamicCastOld_lib.so CMakeFiles/LDynamicCastOld_lib.dir/src/LDynamicCastOld.cc.o

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLPrzekazywaniePrzezWartoscReferencjeWskaznik_lib.so -o libLPrzekazywaniePrzezWartoscReferencjeWskaznik_lib.so CMakeFiles/LPrzekazywaniePrzezWartoscReferencjeWskaznik_lib.dir/src/LPrzekazywaniePrzezWartoscReferencjeWskaznik.cc.o

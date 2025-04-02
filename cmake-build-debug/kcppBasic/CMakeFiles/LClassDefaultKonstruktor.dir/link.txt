@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LClassDefaultKonstruktor.dir/src/LClassDefaultKonstruktor.cc.o -o LClassDefaultKonstruktor  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLClassDefaultKonstruktor_lib.so

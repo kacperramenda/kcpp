@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLChar_lib.so -o libLChar_lib.so CMakeFiles/LChar_lib.dir/src/LChar.cc.o

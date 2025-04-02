@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLDataTypes_lib.so -o libLDataTypes_lib.so CMakeFiles/LDataTypes_lib.dir/src/LDataTypes.cc.o

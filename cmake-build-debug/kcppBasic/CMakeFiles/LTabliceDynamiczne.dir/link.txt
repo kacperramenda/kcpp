@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LTabliceDynamiczne.dir/src/LTabliceDynamiczne.cc.o -o LTabliceDynamiczne  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLTabliceDynamiczne_lib.so

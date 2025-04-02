@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLDyrektywaPreprocesoraHash2_lib.so -o libLDyrektywaPreprocesoraHash2_lib.so CMakeFiles/LDyrektywaPreprocesoraHash2_lib.dir/src/LDyrektywaPreprocesoraHash2.cc.o

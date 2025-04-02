@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLStaticKeyword_lib.so -o libLStaticKeyword_lib.so CMakeFiles/LStaticKeyword_lib.dir/src/LStaticKeyword.cc.o

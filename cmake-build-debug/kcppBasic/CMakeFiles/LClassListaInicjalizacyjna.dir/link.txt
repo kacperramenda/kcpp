@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LClassListaInicjalizacyjna.dir/src/LClassListaInicjalizacyjna.cc.o -o LClassListaInicjalizacyjna  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLClassListaInicjalizacyjna_lib.so

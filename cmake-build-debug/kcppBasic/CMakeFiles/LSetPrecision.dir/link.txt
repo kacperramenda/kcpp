@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LSetPrecision.dir/src/LSetPrecision.cc.o -o LSetPrecision  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLSetPrecision_lib.so

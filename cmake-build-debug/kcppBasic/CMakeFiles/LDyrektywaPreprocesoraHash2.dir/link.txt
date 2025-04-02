@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LDyrektywaPreprocesoraHash2.dir/src/LDyrektywaPreprocesoraHash2.cc.o -o LDyrektywaPreprocesoraHash2  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLDyrektywaPreprocesoraHash2_lib.so

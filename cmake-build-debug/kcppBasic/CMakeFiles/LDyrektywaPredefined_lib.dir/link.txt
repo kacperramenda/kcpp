@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLDyrektywaPredefined_lib.so -o libLDyrektywaPredefined_lib.so CMakeFiles/LDyrektywaPredefined_lib.dir/src/LDyrektywaPredefined.cc.o

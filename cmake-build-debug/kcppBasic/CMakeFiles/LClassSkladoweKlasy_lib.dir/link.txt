@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libLClassSkladoweKlasy_lib.so -o libLClassSkladoweKlasy_lib.so CMakeFiles/LClassSkladoweKlasy_lib.dir/src/LClassSkladoweKlasy.cc.o

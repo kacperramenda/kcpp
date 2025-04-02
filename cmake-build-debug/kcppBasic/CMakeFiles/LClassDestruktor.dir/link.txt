@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LClassDestruktor.dir/src/LClassDestruktor.cc.o -o LClassDestruktor  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLClassDestruktor_lib.so

@@ -55,7 +55,8 @@ foreach(sourcefile ${APP_SOURCES})
     set(library_name "${lib_name}_lib")  # Append "_lib" to make the name unique
 
     # Create a shared library for the source file
-    add_library(${library_name} SHARED ${sourcefile})
+    add_library(${library_name} SHARED ${sourcefile}
+            ../ZadPrzeciazaniePole.cc)
 
     # Set target properties for the library
     target_include_directories(${library_name} PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
@@ -80,7 +81,8 @@ foreach(sourcefile ${APP_SOURCES})
     get_filename_component(target_name ${sourcefile} NAME_WE)
 
     # Add an executable for the source file
-    add_executable(${target_name} ${sourcefile})
+    add_executable(${target_name} ${sourcefile}
+            ../ZadPrzeciazaniePole.cc)
 
     # Set target properties (e.g., C++ standard, include directories)
     target_include_directories(${target_name} PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/include)

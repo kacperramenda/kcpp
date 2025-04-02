@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LClassVirtualDestructor.dir/src/LClassVirtualDestructor.cc.o -o LClassVirtualDestructor  -Wl,-rpath,/home/kacper/kurs-cpp/kcpp/cmake-build-debug/kcppBasic libLClassVirtualDestructor_lib.so
